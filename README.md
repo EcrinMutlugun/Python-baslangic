@@ -6,4 +6,8 @@ random modülü ve döngüler
 
 
 2. Faktöriyel Hesaplama Algoritmaları
-   for, while döngüleri ve fonksiyon 
+   for, while döngüleri ve fonksiyon
+
+3. Taş-Kağıt-Makas:
+   Bu proje, python öğrenmeye başlamamın 1. ayında hiçbir dış kaynak ve yapay zeka kullanmadan yazdığım ilk kod.
+   Bu kod basitçe; herkesin bildiği taş-kağıt-makas oyununun modüller, döngüler ve koşullu ifadeleri pekiştirmek amacıyla yazılmış halidir. 
