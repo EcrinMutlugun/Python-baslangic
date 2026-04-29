@@ -6,7 +6,7 @@ random modülü ve döngüler
 
 
 2. Faktöriyel Hesaplama Algoritmaları
-   for, while döngüleri ve fonksiyon
+   UPDATE: for ve while döngüleri ile faktöriyel hesaplama algoritmalarını fonksiyonlar halinde düzenledim. 
 
 3. Taş-Kağıt-Makas:
    Bu proje, python öğrenmeye başlamamın 1. ayında hiçbir dış kaynak ve yapay zeka kullanmadan yazdığım ilk kod.
